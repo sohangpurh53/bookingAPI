@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*iu&pzo%4v&xfdav999%!clco^_tuy5d)7!%45-gjm39l3iui5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://booking-mbim.onrender.com']
+ALLOWED_HOSTS = ['booking-mbim.onrender.com']
 
 
 # Application definition
